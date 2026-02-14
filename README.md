@@ -109,9 +109,9 @@ nodejs-notes-cicd-aws/
 
 ### Live Application Interface
 
-![Notes App Screenshot 1](screenshots/app1.png)
+![Notes App Screenshot 1](app1(1).png)
 
-![Notes App Screenshot 2](screenshots/app2.png)
+![Notes App Screenshot 2](app1(2).png)
 
 ---
 
