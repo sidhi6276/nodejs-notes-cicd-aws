@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  notes-app:
+    build: .
+    container_name: notes-app-container
+    ports:
+      - "80:5000"
+    volumes:
+      - ./data/notes.json:/app/notes.json
+    restart: always
+
