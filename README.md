@@ -109,7 +109,7 @@ nodejs-notes-cicd-aws/
 
 ### Live Application Interface
 
-(app1(1).png)
+app1 (1).png
 
 (app1(2).png)
 
